@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "connectionTimeout": 30,
+            "database": "TRADE_FINANCE",
+            "dialect": "OracleDB",
+            "name": "TRADE_FINANCE",
+            "password": "TRADE_FINANCE",
+            "port": 1521,
+            "server": "151.80.34.220",
+            "username": "TRADE_FINANCE"
+        }
+    ]
+}
